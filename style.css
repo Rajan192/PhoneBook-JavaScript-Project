@@ -1,0 +1,89 @@
+#mainDiv
+{
+    border: 3px solid red;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 3px;
+    background: gold;
+}
+#tittle
+{
+    text-align: center;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    margin: 10px;
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: rgb(212, 62, 62);
+}
+#searchDiv
+{
+    text-align: center;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    margin: 10px;
+    border: 1px solid rgb(128, 0, 43);
+    border-radius: 5px;
+}
+#search{
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+#addButtonDiv
+{
+    margin: 3px;
+    text-align: center;
+}
+#saveButton
+{
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+}
+
+#saveButtonDiv :hover
+{
+    
+    background-color: red;
+}
+
+
+#saveButtonDiv
+{
+    margin: 3px;
+    text-align: center;
+    
+   
+}
+
+#saveDetailsDiv2
+{
+   border: 1px solid red;
+   margin: 3px;
+   padding: 15px;
+   background-color: rgb(243, 196, 138);
+   
+}
+
+
+
+#td1
+{
+
+    padding: 20px;
+}
+#td2
+{
+
+    padding: 20px;
+}
+#td3
+{
+
+    padding: 20px;
+}
+
+
